@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pinacoooldao4282
-- 👀 I’m interested in the film history, film business, oscars and basically everything about the film and yeah coding
-- 🌱 I’m currently learning Computer Science (TU Wien)
+
 
 
 <!---
